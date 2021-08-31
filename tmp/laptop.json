@@ -1,0 +1,61 @@
+{
+   "id": "f658c101-009d-41a8-84e0-5aa1c61142e1",
+   "brand": "Dell",
+   "name": "Macbook Air",
+   "cpu": {
+      "brand": "Intel",
+      "name": "Core i9-9980HK",
+      "number_of_cores": 3,
+      "number_of_threads": 8,
+      "min_ghz": 2.0970989770515174,
+      "max_ghz": 2.2861732895073428
+   },
+   "ram": {
+      "value": "59",
+      "unit": "GIGABYTE"
+   },
+   "gpus": [
+      {
+         "brand": "NVIDIA",
+         "name": "RTX 2070",
+         "min_ghz": 1.123607099653737,
+         "max_ghz": 1.3325726444341832,
+         "memory": {
+            "value": "5",
+            "unit": "GIGABYTE"
+         }
+      }
+   ],
+   "storages": [
+      {
+         "driver": "HDD",
+         "memory": {
+            "value": "1",
+            "unit": "TERABYTE"
+         }
+      },
+      {
+         "driver": "SSD",
+         "memory": {
+            "value": "290",
+            "unit": "GIGABYTE"
+         }
+      }
+   ],
+   "screen": {
+      "size_inch": 13.985741,
+      "resolution": {
+         "width": 2531,
+         "height": 4499
+      },
+      "panel": "IPS"
+   },
+   "keyboard": {
+      "layout": "QWERTY",
+      "backlit": true
+   },
+   "weight_kg": 1.7264665182911005,
+   "price_usd": 2651.666638198076,
+   "release_year": 2021,
+   "updated_at": "2021-08-01T20:32:18.508929424Z"
+}
